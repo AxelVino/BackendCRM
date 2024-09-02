@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -82,7 +82,8 @@
               "RelativeToolTip": "Domain\\Entities\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:31:23.612Z"
+              "WhenOpened": "2024-09-02T00:31:23.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,7 +95,8 @@
               "RelativeToolTip": "Domain\\Entities\\Artista.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:31:22.504Z"
+              "WhenOpened": "2024-09-02T00:31:22.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,19 +108,25 @@
               "RelativeToolTip": "Domain\\Entities\\Album.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:31:18.169Z"
+              "WhenOpened": "2024-09-02T00:31:18.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Domain.csproj",
+              "Title": "Domain",
               "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\ProyectoIndividual\\Template\\Domain\\Domain.csproj",
               "RelativeDocumentMoniker": "Domain\\Domain.csproj",
               "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\ProyectoIndividual\\Template\\Domain\\Domain.csproj",
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T00:31:14.683Z"
+              "WhenOpened": "2024-09-02T00:31:14.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -130,7 +138,8 @@
               "RelativeToolTip": "Infrastructrure\\Migrations\\20240827193652_inicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:36:52.675Z"
+              "WhenOpened": "2024-08-27T19:36:52.675Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +200,8 @@
               "RelativeToolTip": "Infrastructrure\\Command\\AlbumCommand.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAkwCoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T17:56:03.811Z"
+              "WhenOpened": "2024-08-27T17:56:03.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
