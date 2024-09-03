@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VXysWGCUVLI=",
+  "dgSpecHash": "p1w3+T15A3s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\ProyectoIndividual\\Template\\Template\\Template.csproj",
+  "projectFilePath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Template\\Template.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ivo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

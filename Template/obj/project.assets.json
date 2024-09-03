@@ -4542,11 +4542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\ProyectoIndividual\\Template\\Template\\Template.csproj",
+      "projectUniqueName": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Template\\Template.csproj",
       "projectName": "Template",
-      "projectPath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\ProyectoIndividual\\Template\\Template\\Template.csproj",
+      "projectPath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Template\\Template.csproj",
       "packagesPath": "C:\\Users\\Ivo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\ProyectoIndividual\\Template\\Template\\obj\\",
+      "outputPath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Template\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4568,8 +4568,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\ProyectoIndividual\\Template\\Infrastructrure\\Infrastructrure.csproj": {
-              "projectPath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\ProyectoIndividual\\Template\\Infrastructrure\\Infrastructrure.csproj"
+            "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Infrastructrure\\Infrastructrure.csproj": {
+              "projectPath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Infrastructrure\\Infrastructrure.csproj"
             }
           }
         }
