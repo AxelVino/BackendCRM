@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\persistence\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\template\\domain\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\template\\domain\\entities\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\template\\domain\\entities\\interactiontypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\interactiontypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\template\\domain\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\template\\domain\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -88,14 +88,14 @@
               "RelativeDocumentMoniker": "Infrastructrure\\Persistence\\CrmDbContext.cs",
               "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Infrastructrure\\Persistence\\CrmDbContext.cs",
               "RelativeToolTip": "Infrastructrure\\Persistence\\CrmDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T21:50:47.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tasks.cs",
               "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Domain\\Entities\\Tasks.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Tasks.cs",
@@ -103,12 +103,11 @@
               "RelativeToolTip": "Domain\\Entities\\Tasks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T22:03:20.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T22:03:20.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Projects.cs",
               "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Domain\\Entities\\Projects.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Projects.cs",
@@ -129,12 +128,11 @@
               "RelativeToolTip": "Domain\\Entities\\TaskStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:21:12.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T17:21:12.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Interactions.cs",
               "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Domain\\Entities\\Interactions.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Interactions.cs",
@@ -142,12 +140,11 @@
               "RelativeToolTip": "Domain\\Entities\\Interactions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:41:50.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T17:41:50.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "InteractionTypes.cs",
               "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Domain\\Entities\\InteractionTypes.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\InteractionTypes.cs",
@@ -155,8 +152,7 @@
               "RelativeToolTip": "Domain\\Entities\\InteractionTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:23:22.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T17:23:22.481Z"
             },
             {
               "$type": "Document",
@@ -168,8 +164,7 @@
               "RelativeToolTip": "Domain\\Entities\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T00:31:18.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T00:31:18.169Z"
             },
             {
               "$type": "Document",
@@ -181,8 +176,7 @@
               "RelativeToolTip": "Domain\\Entities\\Clients.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:29:13.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T17:29:13.96Z"
             },
             {
               "$type": "Document",
@@ -194,8 +188,7 @@
               "RelativeToolTip": "Domain\\Entities\\CampaignTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T17:27:00.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T17:27:00.389Z"
             },
             {
               "$type": "Document",
@@ -207,8 +200,7 @@
               "RelativeToolTip": "Template\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T19:32:26.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T19:32:26.819Z"
             },
             {
               "$type": "Document",
@@ -219,8 +211,7 @@
               "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Template\\Template.csproj",
               "RelativeToolTip": "Template\\Template.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T22:04:12.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T22:04:12.689Z"
             },
             {
               "$type": "Document",
@@ -232,21 +223,19 @@
               "RelativeToolTip": "Template\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T15:26:34.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T15:26:34.278Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Infrastructrure",
+              "Title": "Infrastructrure.csproj",
               "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Infrastructrure\\Infrastructrure.csproj",
               "RelativeDocumentMoniker": "Infrastructrure\\Infrastructrure.csproj",
               "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Infrastructrure\\Infrastructrure.csproj",
               "RelativeToolTip": "Infrastructrure\\Infrastructrure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T16:58:46.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T16:58:46.498Z"
             },
             {
               "$type": "Document",
@@ -258,8 +247,7 @@
               "RelativeToolTip": "Template\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T15:26:27.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T15:26:27.789Z"
             },
             {
               "$type": "Document",
@@ -271,21 +259,19 @@
               "RelativeToolTip": "Template\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T19:03:25.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T19:03:25.939Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Application",
+              "Title": "Application.csproj",
               "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Application\\Application.csproj",
               "RelativeDocumentMoniker": "Application\\Application.csproj",
               "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\Template\\Application\\Application.csproj",
               "RelativeToolTip": "Application\\Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T21:56:39.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T21:56:39.085Z"
             },
             {
               "$type": "Document",
@@ -297,8 +283,7 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T00:31:14.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T00:31:14.683Z"
             }
           ]
         }

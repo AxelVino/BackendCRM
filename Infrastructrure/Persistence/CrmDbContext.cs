@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructrure.Persistence
 {
-    public class CrmDbContext: DbContext
+    public class CrmDbContext : DbContext
     {
         public DbSet<Users> Users { get; set; }
         public DbSet<Domain.Entities.TaskStatus> TaskStatus { get; set; }
@@ -18,6 +18,9 @@ namespace Infrastructrure.Persistence
         public DbSet<Interactions> Interactions { get; set; }
         public DbSet<Tasks> Tasks { get; set; }
         public DbSet<Projects> Projects { get; set; }
+        public CrmDbContext(DbContextOptions<CrmDbContext> options) : base(options)
+        {
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Users>(entity =>
@@ -90,6 +93,7 @@ namespace Infrastructrure.Persistence
                 entity.HasKey(e => e.ProyectID);
                 entity.Property(t => t.ProyectID).ValueGeneratedOnAdd();
                 entity.Property(p => p.ProjectName).HasMaxLength(255).IsRequired();
+                entity.HasIndex(t => t.ProjectName).IsUnique(true);
                 entity.Property(s => s.StartDate).IsRequired();
                 entity.Property(c => c.EndDate).IsRequired();
                 entity.Property(x => x.CreateDate).IsRequired();
