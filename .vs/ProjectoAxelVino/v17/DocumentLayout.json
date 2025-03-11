@@ -1,0 +1,1604 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\usecase\\projects\\projectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\usecase\\projects\\projectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\usecase\\tasks\\tasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\usecase\\tasks\\tasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\usecase\\interaction\\interactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\usecase\\interaction\\interactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\controllers\\taskstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\controllers\\taskstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\controllers\\interactiontypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\controllers\\interactiontypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\usecase\\user\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\usecase\\user\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\usecase\\taskstatus\\taskstatusservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\usecase\\taskstatus\\taskstatusservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\usecase\\interactiontype\\interactiontypeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\usecase\\interactiontype\\interactiontypeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\usecase\\clients\\clientsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\usecase\\clients\\clientsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\usecase\\campaign\\campaignservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\usecase\\campaign\\campaignservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\querys\\projectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\querys\\projectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\querys\\userquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\querys\\userquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\querys\\taskstatusquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\querys\\taskstatusquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\querys\\tasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\querys\\tasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\querys\\interactiontypequerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\querys\\interactiontypequerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\querys\\interactionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\querys\\interactionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\querys\\clientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\querys\\clientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\querys\\campaignquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\querys\\campaignquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iprojectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iprojectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\request\\projectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\request\\projectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\command\\projectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\command\\projectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\command\\taskscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\command\\taskscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\itaskscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itaskscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iprojectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iprojectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\command\\interactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\command\\interactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iinteractiontypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iinteractiontypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\itasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\mappers\\interactionsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\mappers\\interactionsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\mappers\\clientmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\mappers\\clientmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\mappers\\campaignmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\mappers\\campaignmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\imappers\\iusersmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imappers\\iusersmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\imappers\\itasksmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imappers\\itasksmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\imappers\\istatustaskmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imappers\\istatustaskmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\imappers\\iprojectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imappers\\iprojectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\imappers\\iinteractiontypemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imappers\\iinteractiontypemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\imappers\\iinteractionsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imappers\\iinteractionsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\imappers\\iclientsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imappers\\iclientsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\imappers\\icampaignmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\imappers\\icampaignmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\exceptions\\exceptionnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\exceptions\\exceptionnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\exceptions\\exceptionbadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\exceptions\\exceptionbadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\exceptions\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\exceptions\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\itaskstatusservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itaskstatusservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\itaskstatusquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itaskstatusquerys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\itasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iinteractiontypeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iinteractiontypeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iinteractionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iinteractionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iinteractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iinteractioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iclientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iclientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iclientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iclientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\iclientscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iclientscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\icampaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icampaignservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\interfaces\\icampaignquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\interfaces\\icampaignquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\command\\clientscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\command\\clientscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\controllers\\campaigntypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\controllers\\campaigntypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\mappers\\projectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\mappers\\projectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\persistence\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\persistence\\crmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\entities\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Migrations\\20241213203023_DBInitV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructrure\\Migrations\\20241213203023_DBInitV1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\entities\\interactiontypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\interactiontypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\entities\\interactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\interactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\entities\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\entities\\campaigntypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\campaigntypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\mappers\\usersmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\mappers\\usersmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\mappers\\tasksmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\mappers\\tasksmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\mappers\\statustaskmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\mappers\\statustaskmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\mappers\\interactiontypemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\mappers\\interactiontypemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\tasksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\tasksresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\taskstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\taskstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\projectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\projectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\projectdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\projectdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\interactiontyperesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\interactiontyperesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\interactionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\interactionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\clientresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\response\\campaignresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\response\\campaignresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\request\\clientsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\request\\clientsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\request\\interactionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\request\\interactionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\request\\tasksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\request\\tasksrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15C6CF43-AE66-4283-8CA1-93FFE2D0D12A}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Migrations\\20241025132431_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructrure\\Migrations\\20241025132431_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F14C687-8806-423F-BBF4-06D6A86894C2}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\infrastructrure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\infrastructrure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\crmapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\crmapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivo\\Documents\\2do cuatrimestre\\Complejidad temporal\\Clase adicional\\AVL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\template\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EFCD7A8-C73C-4F77-9862-2DE4D0EBE384}|Template\\CrmAPI.csproj|solutionrelative:template\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|c:\\users\\ivo\\documents\\4to cuatrimestre\\proyecto software\\proyecto ind\\crm\\infrastructrure\\migrations\\20241213213532_dbinitv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F82D3E-9CC4-4B56-8C3A-693AF54E15AC}|Infrastructrure\\Infrastructrure.csproj|solutionrelative:infrastructrure\\migrations\\20241213213532_dbinitv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Template\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Template\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:46:04.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Template\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Template\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:40:55.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InteractionTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\InteractionTypesController.cs",
+              "RelativeDocumentMoniker": "Template\\Controllers\\InteractionTypesController.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\InteractionTypesController.cs",
+              "RelativeToolTip": "Template\\Controllers\\InteractionTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:21:05.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\TaskStatusController.cs",
+              "RelativeDocumentMoniker": "Template\\Controllers\\TaskStatusController.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\TaskStatusController.cs",
+              "RelativeToolTip": "Template\\Controllers\\TaskStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:06:29.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Template\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Template\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:38:20.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Projects\\ProjectServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Projects\\ProjectServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Projects\\ProjectServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\Projects\\ProjectServices.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:43:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InteractionService.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Interaction\\InteractionService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Interaction\\InteractionService.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Interaction\\InteractionService.cs",
+              "RelativeToolTip": "Application\\UseCase\\Interaction\\InteractionService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA6wD4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:31:12.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksService.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Tasks\\TasksService.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Tasks\\TasksService.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Tasks\\TasksService.cs",
+              "RelativeToolTip": "Application\\UseCase\\Tasks\\TasksService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:31:05.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\User\\UserServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\User\\UserServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\User\\UserServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\User\\UserServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:47:36.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskStatusServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\TaskStatus\\TaskStatusServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\TaskStatus\\TaskStatusServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\TaskStatus\\TaskStatusServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\TaskStatus\\TaskStatusServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:12:14.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientsServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Clients\\ClientsServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Clients\\ClientsServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Clients\\ClientsServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\Clients\\ClientsServices.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:04:03.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InteractionTypeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\InteractionType\\InteractionTypeServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\InteractionType\\InteractionTypeServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\InteractionType\\InteractionTypeServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\InteractionType\\InteractionTypeServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:14:07.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CampaignServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Campaign\\CampaignServices.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Campaign\\CampaignServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\UseCase\\Campaign\\CampaignServices.cs",
+              "RelativeToolTip": "Application\\UseCase\\Campaign\\CampaignServices.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:36:12.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\TasksQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Querys\\TasksQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\TasksQuery.cs",
+              "RelativeToolTip": "Infrastructrure\\Querys\\TasksQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:47:43.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskStatusQuerys.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\TaskStatusQuerys.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Querys\\TaskStatusQuerys.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\TaskStatusQuerys.cs",
+              "RelativeToolTip": "Infrastructrure\\Querys\\TaskStatusQuerys.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:14:06.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserQuerys.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\UserQuerys.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Querys\\UserQuerys.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\UserQuerys.cs",
+              "RelativeToolTip": "Infrastructrure\\Querys\\UserQuerys.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:43:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\ProjectQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Querys\\ProjectQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\ProjectQuery.cs",
+              "RelativeToolTip": "Infrastructrure\\Querys\\ProjectQuery.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwB0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:29:37.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InteractionTypeQuerys.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\InteractionTypeQuerys.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Querys\\InteractionTypeQuerys.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\InteractionTypeQuerys.cs",
+              "RelativeToolTip": "Infrastructrure\\Querys\\InteractionTypeQuerys.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:08:14.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InteractionsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\InteractionsQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Querys\\InteractionsQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\InteractionsQuery.cs",
+              "RelativeToolTip": "Infrastructrure\\Querys\\InteractionsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:48:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\ClientsQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Querys\\ClientsQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\ClientsQuery.cs",
+              "RelativeToolTip": "Infrastructrure\\Querys\\ClientsQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:19:58.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CampaignQuerys.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\CampaignQuerys.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Querys\\CampaignQuerys.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Querys\\CampaignQuerys.cs",
+              "RelativeToolTip": "Infrastructrure\\Querys\\CampaignQuerys.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:40:45.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProjectQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IProjectQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProjectQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IProjectQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProjectQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:27:59.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProjectCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IProjectCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProjectCommand.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IProjectCommand.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProjectCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:05:06.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TasksCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Command\\TasksCommand.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Command\\TasksCommand.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Command\\TasksCommand.cs",
+              "RelativeToolTip": "Infrastructrure\\Command\\TasksCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:12:39.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITasksCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITasksCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITasksCommand.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITasksCommand.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITasksCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:11:20.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProjectServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IProjectServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProjectServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IProjectServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProjectServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:10:03.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Request\\ProjectRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Request\\ProjectRequest.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Request\\ProjectRequest.cs",
+              "RelativeToolTip": "Application\\Request\\ProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:32:54.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProjectCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Command\\ProjectCommand.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Command\\ProjectCommand.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Command\\ProjectCommand.cs",
+              "RelativeToolTip": "Infrastructrure\\Command\\ProjectCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:03:28.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InteractionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Command\\InteractionCommand.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Command\\InteractionCommand.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Command\\InteractionCommand.cs",
+              "RelativeToolTip": "Infrastructrure\\Command\\InteractionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:57:58.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IInteractionTypeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionTypeQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IInteractionTypeQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionTypeQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IInteractionTypeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:02:35.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ITasksService.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITasksService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITasksService.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITasksService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITasksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:31:11.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IInteractionService.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IInteractionService.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IInteractionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:31:11.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InteractionsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\InteractionsMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\InteractionsMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\InteractionsMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\InteractionsMapper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:19:56.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClientMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\ClientMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\ClientMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\ClientMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\ClientMapper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:02:13.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CampaignMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\CampaignMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\CampaignMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\CampaignMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\CampaignMapper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:59:47.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUsersMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IUsersMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMappers\\IUsersMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IUsersMapper.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMappers\\IUsersMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:04:03.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ITasksMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\ITasksMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMappers\\ITasksMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\ITasksMapper.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMappers\\ITasksMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:17:15.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IStatusTaskMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IStatusTaskMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMappers\\IStatusTaskMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IStatusTaskMapper.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMappers\\IStatusTaskMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:39:17.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProjectMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IProjectMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMappers\\IProjectMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IProjectMapper.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMappers\\IProjectMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:53:26.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IInteractionTypeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IInteractionTypeMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMappers\\IInteractionTypeMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IInteractionTypeMapper.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMappers\\IInteractionTypeMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:25:54.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IInteractionsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IInteractionsMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMappers\\IInteractionsMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IInteractionsMapper.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMappers\\IInteractionsMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:18:51.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IClientsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IClientsMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMappers\\IClientsMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\IClientsMapper.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMappers\\IClientsMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:57:22.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICampaignMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\ICampaignMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IMappers\\ICampaignMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IMappers\\ICampaignMapper.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IMappers\\ICampaignMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:55:34.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ExceptionNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Exceptions\\ExceptionNotFound.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ExceptionNotFound.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Exceptions\\ExceptionNotFound.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ExceptionNotFound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:09:50.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ExceptionBadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Exceptions\\ExceptionBadRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ExceptionBadRequest.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Exceptions\\ExceptionBadRequest.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ExceptionBadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T00:24:03.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApiError.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Exceptions\\ApiError.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ApiError.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Exceptions\\ApiError.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ApiError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T00:35:12.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IUserServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:39:08.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IUserQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IUserQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:41:10.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ITaskStatusServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITaskStatusServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITaskStatusServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITaskStatusServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITaskStatusServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:07:01.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ITaskStatusQuerys.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITaskStatusQuerys.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITaskStatusQuerys.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITaskStatusQuerys.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITaskStatusQuerys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:07:26.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ITasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITasksQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITasksQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ITasksQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITasksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:49:21.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IInteractionTypeServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionTypeServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IInteractionTypeServices.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionTypeServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IInteractionTypeServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:03:13.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IInteractionsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IInteractionsQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionsQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IInteractionsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:49:53.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IInteractionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IInteractionCommand.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IInteractionCommand.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IInteractionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:55:04.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IClientsService.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IClientsService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IClientsService.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IClientsService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IClientsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:05:01.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IClientsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IClientsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IClientsQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IClientsQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IClientsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:20:42.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IClientsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IClientsCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IClientsCommand.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\IClientsCommand.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IClientsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:48:35.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ICampaignService.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ICampaignService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICampaignService.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ICampaignService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICampaignService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:35:24.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ICampaignQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ICampaignQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ICampaignQuery.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Interfaces\\ICampaignQuery.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ICampaignQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:42:46.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ClientsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Command\\ClientsCommand.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Command\\ClientsCommand.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Command\\ClientsCommand.cs",
+              "RelativeToolTip": "Infrastructrure\\Command\\ClientsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T21:44:16.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CampaignTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\CampaignTypeController.cs",
+              "RelativeDocumentMoniker": "Template\\Controllers\\CampaignTypeController.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Controllers\\CampaignTypeController.cs",
+              "RelativeToolTip": "Template\\Controllers\\CampaignTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:52:30.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProjectMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\ProjectMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\ProjectMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\ProjectMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\ProjectMapper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:54:25.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Tasks.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Tasks.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Tasks.cs",
+              "RelativeToolTip": "Domain\\Entities\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:03:20.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CrmDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Persistence\\CrmDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Persistence\\CrmDbContext.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Persistence\\CrmDbContext.cs",
+              "RelativeToolTip": "Infrastructrure\\Persistence\\CrmDbContext.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAYwHkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:50:47.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20241213213532_DBInitV1.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Migrations\\20241213213532_DBInitV1.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Migrations\\20241213213532_DBInitV1.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Migrations\\20241213213532_DBInitV1.cs",
+              "RelativeToolTip": "Infrastructrure\\Migrations\\20241213213532_DBInitV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:35:32.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20241213203023_DBInitV1.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Migrations\\20241213203023_DBInitV1.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Migrations\\20241213203023_DBInitV1.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Migrations\\20241213203023_DBInitV1.cs",
+              "RelativeToolTip": "Infrastructrure\\Migrations\\20241213203023_DBInitV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T20:30:23.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Users.cs",
+              "RelativeToolTip": "Domain\\Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:31:18.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Projects.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Projects.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Projects.cs",
+              "RelativeToolTip": "Domain\\Entities\\Projects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T22:03:18.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\TaskStatus.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\TaskStatus.cs",
+              "RelativeToolTip": "Domain\\Entities\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:21:12.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "InteractionTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\InteractionTypes.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\InteractionTypes.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\InteractionTypes.cs",
+              "RelativeToolTip": "Domain\\Entities\\InteractionTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:23:22.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Interactions.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Interactions.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Interactions.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Interactions.cs",
+              "RelativeToolTip": "Domain\\Entities\\Interactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:41:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Clients.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Clients.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\Clients.cs",
+              "RelativeToolTip": "Domain\\Entities\\Clients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:29:13.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CampaignTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\CampaignTypes.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CampaignTypes.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Entities\\CampaignTypes.cs",
+              "RelativeToolTip": "Domain\\Entities\\CampaignTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:27:00.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Program.cs",
+              "RelativeDocumentMoniker": "Template\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Program.cs",
+              "RelativeToolTip": "Template\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:32:26.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "UsersMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\UsersMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\UsersMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\UsersMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\UsersMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:05:03.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "TasksMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\TasksMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\TasksMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\TasksMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\TasksMapper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T16:18:15.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "StatusTaskMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\StatusTaskMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\StatusTaskMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\StatusTaskMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\StatusTaskMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:41:55.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "InteractionTypeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\InteractionTypeMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mappers\\InteractionTypeMapper.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Mappers\\InteractionTypeMapper.cs",
+              "RelativeToolTip": "Application\\Mappers\\InteractionTypeMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:27:26.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TasksResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\TasksResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\TasksResponse.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\TasksResponse.cs",
+              "RelativeToolTip": "Application\\Response\\TasksResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:36:35.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "TaskStatusResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\TaskStatusResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\TaskStatusResponse.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\TaskStatusResponse.cs",
+              "RelativeToolTip": "Application\\Response\\TaskStatusResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:08:08.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\UserResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\UserResponse.cs",
+              "RelativeToolTip": "Application\\Response\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:39:49.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ProjectResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\ProjectResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\ProjectResponse.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\ProjectResponse.cs",
+              "RelativeToolTip": "Application\\Response\\ProjectResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:23:52.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ProjectDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\ProjectDetails.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\ProjectDetails.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\ProjectDetails.cs",
+              "RelativeToolTip": "Application\\Response\\ProjectDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:08:46.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "InteractionTypeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\InteractionTypeResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\InteractionTypeResponse.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\InteractionTypeResponse.cs",
+              "RelativeToolTip": "Application\\Response\\InteractionTypeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:05:00.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "InteractionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\InteractionResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\InteractionResponse.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\InteractionResponse.cs",
+              "RelativeToolTip": "Application\\Response\\InteractionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:39:14.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ClientResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\ClientResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\ClientResponse.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\ClientResponse.cs",
+              "RelativeToolTip": "Application\\Response\\ClientResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:23:05.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CampaignResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\CampaignResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\CampaignResponse.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Response\\CampaignResponse.cs",
+              "RelativeToolTip": "Application\\Response\\CampaignResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:37:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ClientsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Request\\ClientsRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Request\\ClientsRequest.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Request\\ClientsRequest.cs",
+              "RelativeToolTip": "Application\\Request\\ClientsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:12:44.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "InteractionsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Request\\InteractionsRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Request\\InteractionsRequest.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Request\\InteractionsRequest.cs",
+              "RelativeToolTip": "Application\\Request\\InteractionsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:41:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "TasksRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Request\\TasksRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Request\\TasksRequest.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Request\\TasksRequest.cs",
+              "RelativeToolTip": "Application\\Request\\TasksRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:10:05.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Template\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\appsettings.Development.json",
+              "RelativeToolTip": "Template\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T15:26:34.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\appsettings.json",
+              "RelativeDocumentMoniker": "Template\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\appsettings.json",
+              "RelativeToolTip": "Template\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T15:26:27.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T00:31:14.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20241025132431_init.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Migrations\\20241025132431_init.cs",
+              "RelativeDocumentMoniker": "Infrastructrure\\Migrations\\20241025132431_init.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Migrations\\20241025132431_init.cs",
+              "RelativeToolTip": "Infrastructrure\\Migrations\\20241025132431_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:24:31.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T21:56:39.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Infrastructrure.csproj",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Infrastructrure.csproj",
+              "RelativeDocumentMoniker": "Infrastructrure\\Infrastructrure.csproj",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Infrastructrure\\Infrastructrure.csproj",
+              "RelativeToolTip": "Infrastructrure\\Infrastructrure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T16:58:46.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CrmAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\CrmAPI.csproj",
+              "RelativeDocumentMoniker": "Template\\CrmAPI.csproj",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\CrmAPI.csproj",
+              "RelativeToolTip": "Template\\CrmAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T17:46:45.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Template\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\4to cuatrimestre\\Proyecto Software\\Proyecto Ind\\CRM\\Template\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Template\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T19:03:25.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "AVL.cs",
+              "DocumentMoniker": "C:\\Users\\Ivo\\Documents\\2do cuatrimestre\\Complejidad temporal\\Clase adicional\\AVL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\2do cuatrimestre\\Complejidad temporal\\Clase adicional\\AVL.cs",
+              "ToolTip": "C:\\Users\\Ivo\\Documents\\2do cuatrimestre\\Complejidad temporal\\Clase adicional\\AVL.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\2do cuatrimestre\\Complejidad temporal\\Clase adicional\\AVL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:45:03.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

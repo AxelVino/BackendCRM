@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "49ohJGCi8JpI8upNEG7VlXFPu5eemIajnzA5oBeNM3s=",
-  "Source": "Template",
-  "BasePath": "_content/Template",
+  "Hash": "J1JWko4Gi13s8PbML9xelOBadtmvWlTv324NZfF8HCs=",
+  "Source": "CrmAPI",
+  "BasePath": "_content/CrmAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Domain.Entities
+﻿namespace Domain.Entities
 {
     public class InteractionTypes
     {
         public int Id { get; set; }
         public required string Name { get; set; } 
-        public required IList<Interactions> Interactions { get; set; }
     }
 }
