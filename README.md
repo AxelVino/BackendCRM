@@ -7,4 +7,3 @@ Algunos patrones de diseño que se utilizaron son:
 * CORS (Command Query Responsibility Segregation): este patrón separa las operaciones de lectura (queries) de las operaciones de escritura (commands), lo que permite optimizar cada una de estas acciones de manera independiente.
 * Dependency Injection: que permite desacoplar los objetos en una aplicación al proporcionarles sus dependencias desde el exterior, en lugar de que los objetos mismos las creen.
   
-El sistema puede refactorizarse, aplicando mejoras, mas patrones de diseños, un middleware para la seguridad, agregar un sistema de autenticacion para los usuarios, etc.
