@@ -1,4 +1,4 @@
-# CRM-Frontend
+# CRM-Backend
 
 Este es un backend utilizando los principios REST API para la comunicacion HTTP entre servicios, en el cual se extraen, guardan, modifican o eliminan datos de un servicio CRM WEB.
 Tambien se siguen principios solid, se hace uso de interfaces, una arquitectura en capas, clean architecture, se hacen uso de validaciones estrictas, asincronismo, object mapping, formato de mensaje JSON y EntityFramework como ORM, para realizar la interaccion y 
