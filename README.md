@@ -12,4 +12,3 @@ Algunos de los patrones de diseño que se utilizaron:
 * CQRS (Command Query Responsibility Segregation): este patrón separa las operaciones de lectura (queries) de las operaciones de escritura (commands), lo que permite optimizar cada una de estas acciones de manera independiente.
 * Dependency Injection: que permite desacoplar los objetos en una aplicación al proporcionarles sus dependencias desde el exterior, en lugar de que los objetos mismos las creen.
 * Strategy: es un patrón de comportamiento que permite definir una familia de algoritmos, encapsularlos y hacerlos intercambiables sin modificar el código del cliente que los usa.
-* Repository: patrón de diseño usado principalmente en aplicaciones que acceden a bases de datos. Sirve para abstraer la lógica de acceso a datos y desacoplar la lógica de negocios del almacenamiento.
